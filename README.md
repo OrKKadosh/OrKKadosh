@@ -23,9 +23,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][4]
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)][5]
 
-[1]: https://www.linkedin.com/in/talhazi/
+[1]: https://www.linkedin.com/in/orkadosh/
 [2]: mailto:orkadosh410@gmail.com
 [3]: https://www.facebook.com/kadosh123/
-[4]: https://github.com/talhazi
+[4]: https://github.com/OrKKadosh
 [5]: https://wa.me/972524506688
 
